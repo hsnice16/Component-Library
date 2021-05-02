@@ -115,6 +115,8 @@ hr {
     background-color: var(--off-white);
 }   
 
+/* footer */
+
 .footer {
     background-color: var(--primary-color);
     padding: 2rem;
